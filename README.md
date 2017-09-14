@@ -45,7 +45,7 @@ Example: <i>Topology=0</i>
 * 3 = 3rd option in the Topology drop-down menu
 * 4 = 4th option in the Topology drop-down menu
 
-<br>Taskbar Fix</b><br>
+<b>Taskbar Fix</b><br>
 Attempts to apply a fix for windows maximizing behind the taskbar while in Surround mode.<br>
 Example: <i>TaskbarFix=0</i>
 * 0 = Fix Disabled (Default)
