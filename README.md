@@ -1,6 +1,8 @@
 # NVSToggle
 Nvidia Surround Toggle (NVSToggle) is a script that automatically toggles between <b>Nvidia Surround</b> and <b>Extended Desktop</b> mode on supported systems.
 
+Support thread on [H]ard|Forum: https://hardforum.com/threads/quick-switch-between-extended-desktop-and-surround.1590030/
+
 # Features
 * One-click switching between Extended Desktop and Surround display modes.
 * Supports portrait and landscape Surround (cfg file)
